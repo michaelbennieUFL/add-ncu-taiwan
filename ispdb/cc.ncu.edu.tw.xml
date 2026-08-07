@@ -5,7 +5,7 @@
     <domain>cc.ncu.edu.tw</domain>
 
     <displayName>National Central University</displayName>
-    <displayNameShort>NCU</displayNameShort>
+    <displayShortName>NCU</displayShortName>
 
     <incomingServer type="pop3">
       <hostname>pop3.ncu.edu.tw</hostname>
